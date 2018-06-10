@@ -1,3 +1,4 @@
 <?php
-	echo phpinfo();
+  echo "Hello World!";
+  echo "PHP is so easy!";
 ?>
